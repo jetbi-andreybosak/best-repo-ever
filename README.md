@@ -1,3 +1,5 @@
 # best-repo-ever
 
-This line has been added by AB on 11/5 6:38 AM
+This line has been added by AndreyB on 11/5/2017 6:38 AM
+removing the blank space
+New comment This is GOOd
